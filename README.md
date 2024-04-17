@@ -1,3 +1,4 @@
+<!--
 ## 황주희 Joohee Hwang
 🌱 Frontend Developer
 <br/><br/>
@@ -38,6 +39,7 @@
 
 ```
 <br/>
+-->
 <!-- https://github.com/Envoy-VC/awesome-badges -->
 
 ### 🖥✨ Tech & Lib & Communication
