@@ -36,15 +36,18 @@
 
 [2024.02-] | "한국대학생IT경영학회 큐시즘 KUSITMS 29기" | 웹프론트엔드 파트
   🏆 기업 프로젝트 KUSITMS X Kobaco(한국방송광고진흥공사) 최우수상
+  🏆 최종 MEETUP 프로젝트 "취향 소통 Q&A 플랫폼, Flipit" 대상
 
 ```
 <br/>
 -->
 <!-- https://github.com/Envoy-VC/awesome-badges -->
 
-### 🖥✨ Tech & Lib & Communication
+
 <br/>
 <div align="center">
+<h3>🖥✨ Tech & Lib & Communication</h3>
+	<br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -56,8 +59,13 @@
   <img src="https://img.shields.io/badge/PWA-571DC2?style=for-the-badge&logo=pwa&logoColor=white"/>
 	<br/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>	
-<!-- <br/> -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+	<br/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>	
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 	<br/>
